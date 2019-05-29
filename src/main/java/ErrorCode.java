@@ -1,3 +1,3 @@
 public enum ErrorCode {
-    ErrorCheck
+    ErrorLimit
 }
